@@ -1,7 +1,9 @@
 {
   "posts": [
-    "id": 1,
-    "Name": "Aditya"
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
