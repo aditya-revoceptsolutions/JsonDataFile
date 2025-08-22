@@ -3,26 +3,26 @@
     {
     "Id": "1",
     "Name": "Aditya",
-    Department: "HR",
-    CompanyName: "Relinns"
+    "Department": "HR",
+    "CompanyName": "Relinns"
 },
 {
     "Id": "2",
     "Name": "Merry",
-    Department: "Tester",
-    CompanyName: "JungleWorks"
+    "Department": "Tester",
+    "CompanyName": "JungleWorks"
 },
 {
     "Id": "3",
     "Name": "Tripti",
-    Department: "AI Engineer",
-    CompanyName: "Relinns"
+    "Department": "AI Engineer",
+    "CompanyName": "Relinns"
 },
 {
     "Id": "4",
     "Name": "Nikhil",
-    Department: "Dev",
-    CompanyName: "Anivam"
+    "Department": "Dev",
+    "CompanyName": "Anivam"
 }
   ],
   "profile": {
